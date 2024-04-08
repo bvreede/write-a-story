@@ -19,4 +19,6 @@ judgings <- c("fabulous", "questionable", "top notch", "interesting", "wonderful
 judgement <- sample(judgings, 1)
 
 # Make the story
-madlibs::story_grocer(person, fruit, item, verb, transportmode, judgement)
+story <- madlibs::story_grocer(person, fruit, item, verb, transportmode, judgement)
+
+writeLines(story, con = "story.md")
