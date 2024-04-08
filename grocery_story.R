@@ -9,7 +9,7 @@ fruit <- sample(fruits, 1)
 items <- c("toilet paper", "wine", "trash bags", "shampoo", "dog food")
 item <- sample(items, 1)
 
-actions <- c("smashed", "shredded", "opened", "crushed", "squeezed")
+actions <- c("smashed", "shredded", "opened", "crushed", "squeezed", "sliced")
 verb <- sample(actions, 1)
 
 transportation <- c("ufo", "flying carpet", "ATV", "roller skates", "lawn mower")
