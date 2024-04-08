@@ -1,0 +1,1 @@
+One day, Oisin took a roller skates down to the grocery store. Oisin wanted to buy apples today, to make a fruit salad. Unfortunately, all apples were sold out. Frustrated, Oisin decided to buy toilet paper instead. On the roller skates back to the house, Oisin made a plan. Back home, Oisin smashed the toilet paper and put it in the salad. It tasted fabulous!
