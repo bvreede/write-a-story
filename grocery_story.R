@@ -1,6 +1,6 @@
 ## collect the variables, and pick one at random
 
-people <- c("Jennifer", "Albert", "Tiago", "Oisin", "Miriam", "Linda", "Emmy", "Daniel")
+people <- c("Jennifer", "Albert", "Tiago", "Oisin", "Miriam", "Linda", "Emmy", "Daniel", "Barbara")
 person <- sample(people, 1)
 
 fruits <- c("banana", "melon", "mango", "grape", "apple", "cucumber", "papaya")
