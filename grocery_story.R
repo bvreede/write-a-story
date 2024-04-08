@@ -6,7 +6,7 @@ person <- sample(people, 1)
 fruits <- c("banana", "melon", "mango", "grape", "apple", "cucumber", "papaya")
 fruit <- sample(fruits, 1)
 
-items <- c("toilet paper", "wine", "trash bags", "shampoo", "dog food")
+items <- c("toilet paper", "wine", "trash bags", "shampoo", "dog food", "tomato")
 item <- sample(items, 1)
 
 actions <- c("smashed", "shredded", "opened", "crushed", "squeezed")
