@@ -3,7 +3,7 @@
 people <- c("Jennifer", "Albert", "Tiago", "Oisin", "Linda", "Emmy", "Daniel", "Yeon", "Yinan", "Barbara")
 person <- sample(people, 1)
 
-fruits <- c("banana", "melon", "mango", "grape", "apple", "cucumber", "papaya", "tomatoes")
+fruits <- c("banana", "melon", "mango", "grape", "apple", "cucumber", "papaya", "tomatoes", "zucchini")
 fruit <- sample(fruits, 1)
 
 items <- c("toilet paper", "wine", "trash bags", "shampoo", "dog food", "tomato")
